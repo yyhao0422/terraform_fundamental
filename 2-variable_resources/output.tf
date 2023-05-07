@@ -13,4 +13,3 @@ output "instance_publicdns" {
 }
 
 
-#EC2 Instance Public DNS
